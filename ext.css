@@ -1,0 +1,5 @@
+ul li u{background-color:  blue;}
+div>u{background-color: yellow;}
+p:hover{background-color: orange; color: cyan;
+}
+a.highlight:hover{color:black;}
